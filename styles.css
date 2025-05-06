@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-image: url(assets/2020706.jpg);
+    background-blend-mode: darken;
     display: flex;
     justify-content: center;
     align-items: center;
